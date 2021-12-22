@@ -13,7 +13,7 @@ name                     : &name ""
 description              : &description "PhD student working on improving protein sequencing using deep learning."
 url                      : https://Usman095.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Usman095.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,7 +85,7 @@ author:
   bio              : "PhD student working on improving protein sequencing using deep learning."
   location         : "Miami, FL USA"
   employer         : "Florida International University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=TKOy-9wAAAAJ&hl=en"
   email            : "usmanee100@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
