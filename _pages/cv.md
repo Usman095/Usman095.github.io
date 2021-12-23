@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering  
+  University of Engineering & Technology, Lahore, Punjab, Pakistan, 2014
+* M.S. in Computer Engineering  
+  Western Michingan University, Kalamazoo, Michigan, USA, 2018
+* Ph.D in Computer Science  
+  Florida International University, Miami, Florida, USA, April 2013 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software Engineer Intern (Machine Learning)
+  * Meta
+  * Duties included: TBA
+  * Supervisor: TBA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018 - Present: Graduate Research Assistant
+  * Knight Foundation School of Computing and Information Sciences, Florida International University
+  * Duties included: Designing deep learning arhcitectures for improving peptide database search performance.
+  * Supervisor: Professor Fahad Saeed
+
+* Fall 2016 - Summer 2018: Graduate Teaching Assitant
+  * Department of Electrical and Computer Engineering, Western Michigan University
+  * Duties included: Parallel algorithm design for graph sampling using OpenCL for FPGAs
+  * Supervisor: Professor Fahad Saeed
+
+* Summer 2014 - Summer 2016: Software Engineer
+  * Xavor Pakistan Private Limited
+  * Duties included: Created human resource portal for Guitar Center
+  * Supervisor: Muhammad Athar Shafiq
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Algorithm Design and Analysis
+* Deep Learning
+  * LSTMs
+  * Attention Networks
+  * Convolutional Neural Networks
+  * Representation Learning
+  * Two-Tower Networks (Dual Encoder Networks)
+* Parallel Computing
 
 Publications
 ======
