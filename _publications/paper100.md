@@ -1,5 +1,6 @@
 ---
 title: "Unsupervised structural classification of dissolved organic matter based on fragmentation pathways"
+order: 100
 collection: publications
 permalink: /publication/paper100
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
