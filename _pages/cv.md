@@ -70,6 +70,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Publications
+======
+  <ul>
+    {% assign sorted = site.publications | sort: 'name' %}
+    {% for post in sorted %}
+      {% include archive-single-cv.html %}
+    {% endfor %}
+  </ul>
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
