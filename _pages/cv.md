@@ -63,17 +63,11 @@ Skills
 * **Core Skills**: Algorithm Design and Analysis, Deep Learning, Machine Learning, Computer Vision, Decision Trees, LSTMs, Attention Networks, Convolutional Neural Networks, Representation Learning, Two-Tower Networks (Dual Encoder Networks), Parallel Computing
 * **Frameworks**: PyTorch, Keras, TensorFlow, SciKit-Learn, NumPy, Pandas, Jupyter Notebook
 * **Programming Languages**: Python, C++, C, C\#, Java, Cuda, OpenCL, MPI, OpenMP
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Publications
 ======
   <ul>
-    {% assign sorted = site.publications | sort: 'date' | reverse %}
+    {% assign sorted = site.publications | sort: 'order' %}
     {% for post in sorted %}
       {% include archive-single-cv.html %}
     {% endfor %}
