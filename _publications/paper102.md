@@ -1,6 +1,6 @@
 ---
 title: "Power-efficient and highly scalable parallel graph sampling using fpgas"
-order: 101
+order: 102
 collection: conference
 permalink: /publication/paper102
 excerpt: 'This paper presents an OpenCL implementation of parallel graph sampling on FPGAs'
