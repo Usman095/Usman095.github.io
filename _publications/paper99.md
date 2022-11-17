@@ -1,5 +1,6 @@
 ---
 title: "SpeCollate: Deep cross-modal similarity network for mass spectrometry data based peptide deductions"
+order: 99
 collection: publications
 permalink: /publication/paper99
 excerpt: 'SpeCollate is the first of its kind deep learning based peptide database search engine. By embedding both the query spectra and the database peptides using a dual encoder network, SpeCollate can efficiently rank high quality peptides for each query spectrum providing up to 95% search accuracy.'
