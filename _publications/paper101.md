@@ -1,5 +1,6 @@
 ---
 title: "Methods for Proteogenomics Data Analysis, Challenges, and Scalability Bottlenecks: A Survey"
+order: 101
 collection: publications
 permalink: /publication/paper101
 excerpt: 'This paper surveys the computational tools for proteogenomic analysis using mass-spectrometry data'
