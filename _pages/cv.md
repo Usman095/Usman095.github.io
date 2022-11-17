@@ -57,6 +57,16 @@ Work experience
   - Supervisor: Muhammad Athar Shafiq
   - Implement HR Management Portal for Guitar Center using SharePoint. (C#, .NET)
   - Designed and implemented database merger workflow of Guitar Center and Music & Arts. (Agile Methodology)
+
+Projects
+======
+* **[Winner ShellHacks 2021 Hackathon for CloudVision](https://devpost.com/software/cloudvision):** A social distancing app for the visually imparied.
+  * Best use of Google Cloud API award. First Prize.
+  * Best Health Access and Delivery App by MITRE. Second Prize.
+
+* TogetherAI: AI-based dating app.
+  * Suggests matches based on AI-based profile images and description analysis using ResNet and GPT2.
+  * Improves engagement between matches by suggesting ice-breakers based on mutual likenesses.
   
 Skills
 ======
