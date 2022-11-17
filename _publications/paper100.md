@@ -3,7 +3,7 @@ title: "Unsupervised structural classification of dissolved organic matter based
 order: 100
 collection: publications
 permalink: /publication/paper100
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Structural clustering of isomeric families of organic molecules.'
 date: 2022-01-04
 venue: 'Environmental Science & Technology'
 paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.est.1c04726'
