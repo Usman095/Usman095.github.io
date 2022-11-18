@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Muhammad Usman Tariq (PhD Candidate)"
+title                    : "Usman Tariq (PhD Candidate)"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "PhD candidate Knight Foundation School of Computing and Information Sciences, Florida International University."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Muhammad Usman Tariq"
+  name             : "Usman Tariq"
   avatar           : "profile.png"
   bio              : "PhD Researcher (Final Year) \n Ex Meta (Facebook) ML Intern \n Machine Learning, Deep Learning Enthusiast"
   location         : "Miami, FL USA"
@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
+  conference:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +250,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # conferences
+  - scope:
+      path: ""
+      type: conference
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
