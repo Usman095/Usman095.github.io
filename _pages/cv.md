@@ -91,6 +91,24 @@ Publications
     {% endfor %}
   </ul>
   
-Service and leadership
+Awards and Talks
 ======
-* Currently signed in to 43 different slack teams
+* Winner ShellHacks 2021 Hackathon for CloudVision. https://devpost.com/software/cloudvision
+* Winner 3MT Poster Presentation on SpeCollate at SCIS FIU Research Day Event 2019.
+* Awarded Rising Star of the Year 2015 as a Software Engineer at Xavor Corporation
+* Guest Speaker “Supercomputing and Machine Learning for Big Biomedical Data” at the Department of Electrical Engineering, University of Engineering and Technology, Lahore, Pakistan. 2021 https://www.youtube.com/watch?v=dUvaxjDeBmM
+* Presented “Parallel Sampling-Pipeline for Indefinite Stream of Heterogeneous Graphs using OpenCL for FPGAs.” at 2018 International Conference on Big Data.
+* Presented “Power-efficient and highly scalable parallel graph sampling using FPGAs.” at 2017 International Conference on ReConFigureable Computing and FPGAs.
+* Presented “Predictive activation for localization using minimal data-fusion in MANETs.” at 2013 International Conference on Information and Communication Technologies.
+
+Leadership and Extra-Curricular Activities
+======
+* Tech Lead, AI/ML Community with more than 230 active members as part of Google Developer Student Club.
+* Leader of Deep Learning paper reading club with 10 active researchers.
+* Reviewer for IEEE Access, PLOS, and Distributed Ledger Technologies.
+* Volunteer coordinator at Midscale Experimental Research Infrastructure Forum (MERIF 2020).
+* Volunteered organizer at International Multi-Topic Conference 2013.
+* Member Upsilon Pi Epsilon (UPE), UPE Leap, UPE SparkDev, and UPE Code student organizations.
+* Designed IEEE UET Web Portal as a member of the IEEE Student Chapter during my bachelor’s degree.
+* Organized several events and workshops (Programming Competitions, LaTeX, MATLAB Workshops) as a member of
+the IEEE Student Chapter during my bachelor’s degree.
