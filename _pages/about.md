@@ -24,4 +24,6 @@ Moreover, he has enjoyed designing algorithms for numerous applications, includi
 Work Experience
 ======
 
+For a complete list of work experience [click here](https://usman095.github.io/cv/)
+
 In Summer 2022, I had the opportunity to work at Meta (Facebook) as Machine Learning Intern where I designed deep learning architectures for ranking problems. My project was to rank comments under Ads such that the most useful and diverse set of comments are shown to the viewer so that they can learn more about the product. I was able to successfully design, evaluate, and implement various linear, and deep learning-based algorithms including (text embedding models) which showed up to 5.5% event-based revenue growth and an 11.96% Ad conversion rate increase. During this internship not only did I obtain the technical skills to deploy deep learning algorithms in real-world problems, but I also learned to work in a focused, extremely fast-paced environment and yet produce high-quality work. Moreover, by acting as the main point of contact for the project across multiple cross-functional teams, I also improved my collaboration and communication skills by presenting ideas to individuals with different backgrounds and little knowledge of the project. 
