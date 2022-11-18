@@ -77,8 +77,7 @@ Skills
 Patents
 ======
   <ul>
-    {% assign sorted = site.patents | sort: 'order' %}
-    {% for post in sorted %}
+    {% for post in site.patents %}
       {% include archive-single-cv.html %}
     {% endfor %}
   </ul>
