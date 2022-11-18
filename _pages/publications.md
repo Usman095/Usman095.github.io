@@ -9,6 +9,15 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
-{% for post in site.publications | sort: 'order' %}
-  {% include archive-single.html %}
-{% endfor %}
+Patents
+======
+  {% for post in site.patents %}
+    {% include archive-single.html %}
+  {% endfor %}
+  
+Publications
+======
+  {% assign sorted = site.publications | sort: 'order' %}
+  {% for post in sorted %}
+    {% include archive-single.html %}
+  {% endfor %}
