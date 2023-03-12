@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Usman is a fourth year Ph.D. student in Computer Science at Florida International University Miami, FL, USA. He received his B.S. degree in Electrical Engineering from University of Engineering and Technology, Lahore, Pakistan in 2014 and an M.S degree in Computer Engineering from Western Michigan University in 2018. He was a Graduate Teaching Assistant at Western Michigan University from 2016 to 2018 and currently working as a Graduate Research Assistantin at Knight Foundation School of Computing and Information Sciences at Florida International University. His research interests include developing Artificially Intelligent algorithms for Big-Data processing in Bioinformatics, high-performance computing, parallel and distributed algorithm design, and reconfigurable architectures.
+Usman is a final year Ph.D. student in Computer Science at Florida International University Miami, FL, USA. He received his B.S. degree in Electrical Engineering from University of Engineering and Technology, Lahore, Pakistan in 2014 and an M.S degree in Computer Engineering from Western Michigan University in 2018. He was a Graduate Teaching Assistant at Western Michigan University from 2016 to 2018 and currently working as a Graduate Research Assistantin at Knight Foundation School of Computing and Information Sciences at Florida International University. His research interests include developing Artificially Intelligent algorithms for Big-Data processing in Bioinformatics, high-performance computing, parallel and distributed algorithm design, and reconfigurable architectures.
 
 Research
 ======
